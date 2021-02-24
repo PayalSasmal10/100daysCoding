@@ -1,1 +1,1 @@
-# 100daysCoding_Day1
+This is a simple quize using python. Added sleep method here. Trying to do learn Python by myself. #100DaysCodeChallaenge
