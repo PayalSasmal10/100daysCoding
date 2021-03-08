@@ -1,1 +1,1 @@
-# 100daysCodingChallenge Repo for self learning
+This is Tic-Tac-Toe game. If you want to play this you just have to install Tic-Tac-Toe-1.0-amd64 in your windows machine.
